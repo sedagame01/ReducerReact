@@ -1,0 +1,23 @@
+.form {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.form input,
+.form textarea {
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.form button {
+  width: fit-content;
+  padding: 8px 14px;
+  background: #235e1d;
+  border: none;
+  border-radius: 6px;
+  color: white;
+
+}
